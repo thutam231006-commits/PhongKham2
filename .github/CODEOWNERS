@@ -1,0 +1,14 @@
+# Mặc định: trưởng nhóm review tất cả
+* @thutam231006 @trinhngoctruc-oss
+
+# Backend: gán cho team backend
+/backend/@thutam231006
+
+# Frontend: gán cho team frontend
+/frontend/@thutam231006
+
+# Tài liệu: gán cho người phụ trách docs
+/docs/ @phucduc4k11
+
+# Cấu hình CI/CD: gán cho DevOps
+/.github/  @phucduc4k11
